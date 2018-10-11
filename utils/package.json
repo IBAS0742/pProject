@@ -1,0 +1,22 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "utils",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "IBAS",
+  "dependencies": {
+    "glob": "7.1.3",
+    "crypto": "1.0.1",
+    "md5": "^2.2.1"
+  } ,
+  "devDependencies": {
+  }
+}

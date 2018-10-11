@@ -1,0 +1,30 @@
+{
+  "name": "typeOne",
+  "version": "1.0.0",
+  "description": "An Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack-win": "node package-electron win",
+    "pack-win-ignore": "node package-electron win i",
+    "pack-mac": "node package-electron mac",
+    "pack-mac-ignore": "node package-electron mac i",
+    "pack-linux": "node package-electron linux",
+    "pack-linux-ignore": "node package-electron linux i"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "IBAS",
+  "dependencies": {
+    "request": "^2.88.0"
+  } ,
+  "devDependencies": {
+    "electron": "^2.0.5",
+    "electron-packager": "^8.5.1"
+  }
+}

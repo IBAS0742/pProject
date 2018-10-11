@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="JS/jquery.min.js"></script>
+    <script src="JS/vue2.5.17.js"></script>
+    <script src="translate/fetchTran.js"></script>
+    <script src="translate/getAllDomText.js"></script>
+    <script src="translate/htmlparser.js"></script>
+    <script src="translate/translateObj.js"></script>
+    <script src="translate/help.js"></script>
+    <script src="translate/mapping.js"></script>
+</head>
+<body>
+    <div id="app">
+        <div style="display: block;width: 100%;">
+            <table style="width: 100%;">
+                <tbody>
+                    <tr>
+                        <td>tkk</td>
+                        <td>{{tkk}}</td>
+                    </tr>
+                    <tr>
+                        <td>lang</td>
+                        <td>{{lang}}</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table style="width: 100%;">
+                <thead>
+                    <tr>
+                        <th>原文</th>
+                        <th>译文</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="(te,ind) in test">
+                        <td>{{te}}</td>
+                        <td>{{testRet[ind]}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="testWords">这是一段普通的文字，普普通通，没有任何一个字不是废话，就是,,,额,,,就是想看看能不能翻译而已。</div>
+    <noscript style="display: none;" id="forTranslate">
+    </noscript>
+    <webview disablewebsecurity webpreferences="nodeIntegration=no,nativeWindowOpen=yes" allowpopups preload="./JS/inj.js" id="injWeb" src="https://github.com/IBAS0742/pProject" style="width:100%; height:100%"></webview>
+    <script>
+        let vm = new Vue({
+            el: '#app',
+            data: {
+                tkk: '',
+                lang: '',
+                test: {
+                    a: '这是第一句废话',
+                    b: '我想知道翻译这第二句废话的结果'
+                },
+                testRet: {},
+                change: 0
+            },
+            watch: {
+                change() {
+                    this.tkk = sessionStorage.getItem('tkk');
+                    this.lang = sessionStorage.getItem('lang');
+                },
+                lang() {
+                    translateObj(this.test,(obj => {
+                        this.testRet = obj;
+                    }).bind(this),this.lang);
+                    translate(this.lang,a=>a,document.getElementById('testWords'));
+                }
+            },
+            mounted() {
+                this.tkk = sessionStorage.getItem('tkk');
+                this.lang = sessionStorage.getItem('lang');
+                this.change = new Date().getTime();
+            }
+        });
+    </script>
+</body>
+</html>

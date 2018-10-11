@@ -4,6 +4,8 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# IDEA WEBSTOME
+.idea
 
 # Runtime data
 pids
@@ -33,6 +35,8 @@ bower_components
 build/Release
 
 # Dependency directories
+typeOne/node_modules/
+utils/node_modules/
 node_modules/
 jspm_packages/
 
