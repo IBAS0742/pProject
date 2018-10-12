@@ -11,11 +11,7 @@ let writeFile = function(path,data,binary) {
         path_join += '/' + path_.shift();
     }
     if (binary) {
-        fs.writeFile(path,data,'binary',function (err) {
-            if (err) {
-                console.log('【' + path + '】复制时发生问题',e);
-            }
-        });
+        fs.writeFileSync(path,data,'binary');
     } else {
         fs.writeFileSync(path,data);
     }
@@ -35,7 +31,7 @@ let deleteFolder = function(path) {
         });
         fs.rmdirSync(path);
     }
-}
+};
 
 exports.writeFile = writeFile;
 exports.deleteFolder = deleteFolder;

@@ -4,9 +4,11 @@
 let fs = require('fs');
 let ende = require('./ende').ende;
 let writeFile = require('./fs-ext').writeFile;
+let endeFile = require('./ende_file').endeFile;
 let deleteFolder = require('./fs-ext').deleteFolder;
 // 要恢复的项目文件夹
-const source_path = './../projects/typeOne/geeis/';
+// const source_path = './../projects/typeOne/geeis/';
+const source_path = 'D:/HTML/test/GEE_r/';
 // 要恢复的项目文件夹的原文件
 let bakFileDirName = '__bak__file__';
 
@@ -17,7 +19,6 @@ let coreBakPath = '__core_bak_path__';
 let MD5_FILE = 'md5.json';
 const key = 'key';
 let UTF8 = 'UTF-8';
-let ext = require('./special-ext').ext;
 
 function recorver() {
     // 1. 清空原文件夹
@@ -37,19 +38,7 @@ function recorver() {
     for (let i in new_md5) {
         // 判断 文件i 是否存在
         if (fs.existsSync(source_path + bakFileDirName + '/' + i)) {
-            let irr = i.split('.');
-            if (ext.indexOf(irr[irr.length - 1].toLowerCase()) + 1) {
-                let writeFile_ = writeFile.bind(null,source_path + i);
-                fs.readFile(source_path + bakFileDirName + '/' + i,'binary',((cb,err,data) => {
-                    if (err) {
-                        console.log(err);
-                    } else {
-                        cb(data,true);
-                    }
-                }).bind(null,writeFile_));
-            } else {
-                writeFile(source_path + i,ende.aesDecrypt(fs.readFileSync(source_path + bakFileDirName + '/' + i,UTF8),key));
-            }
+            endeFile(source_path + bakFileDirName + '/' + i,source_path + i,key,false);
         } else if (i in old_md5) {
             if (fs.existsSync(core_path + coreBakPath + '/' + old_md5[i])) {
                 writeFile(source_path + i,fs.readFileSync(core_path + coreBakPath + '/' + old_md5[i],UTF8));
