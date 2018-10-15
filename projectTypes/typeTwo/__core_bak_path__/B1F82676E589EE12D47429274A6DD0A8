@@ -1,0 +1,25 @@
+### [使用外部图标的 ydui 文档说明](http://vue.ydui.org/docs/#/icons)
+
+在 App.vue 中使用了阿里图标，这里给一个基本写法和详细说明
+
+```html
+<style src="./icon/ali/iconfont.css"></style>
+<style lang="scss">
+	@font-face {
+		font-family: 'ali';
+		src: url('./icon/ali/iconfont.ttf') format('truetype');
+	}
+	[class^="icon-custom-"]:before, [class*=" icon-custom-"]:before {
+		font-family: 'ali';
+	}
+</style>
+```
+这里的  
+[class^="icon-custom-"]:before, [class*="icon-custom-"]:before  
+也可以是  
+[class^="icon-"]:before, [class*="icon-"]:before 
+
+另外使用时的写法是  
+<yd-icon name="gengduo" custom></yd-icon>  
+这里的 custom 表示使用自定义的图标
+

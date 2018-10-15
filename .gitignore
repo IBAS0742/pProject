@@ -35,7 +35,8 @@ bower_components
 build/Release
 
 # Dependency directories
-typeOne/node_modules/
+projectTypes/typeOne/node_modules/
+projectTypes/typeTwo/node_modules/
 utils/node_modules/
 node_modules/
 jspm_packages/

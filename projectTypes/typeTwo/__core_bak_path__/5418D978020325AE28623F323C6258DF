@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89a131d0-b49a-480e-af97-6c370c53d8ae" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/main/utils/fetchEventDear.js">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="552">
+                    <caret line="150" column="16" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="16" />
+                    <folding>
+                      <element signature="e#530#699#0" />
+                      <element signature="e#726#2152#0" />
+                      <element signature="e#783#870#0" />
+                      <element signature="e#926#1015#0" />
+                      <element signature="e#1067#1155#0" />
+                      <element signature="e#1205#1282#0" />
+                      <element signature="e#1334#1955#0" />
+                      <element signature="e#1344#1835#0" />
+                      <element signature="e#1372#1467#0" />
+                      <element signature="e#1478#1577#0" />
+                      <element signature="e#1588#1685#0" />
+                      <element signature="e#1696#1781#0" />
+                      <element signature="e#1792#1825#0" />
+                      <element signature="e#1856#1906#0" />
+                      <element signature="e#1912#1947#0" />
+                      <element signature="e#2003#2050#0" />
+                      <element signature="e#2098#2146#0" />
+                      <element signature="e#2175#2477#0" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1021504320">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ejs" value="3" />
+          <entry key="js" value="38" />
+          <entry key="json" value="8" />
+          <entry key="log" value="2" />
+          <entry key="txt" value="3" />
+          <entry key="vue" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="EJS" value="3" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="38" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Vue.js" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ejs" value="22" />
+          <entry key="js" value="4717" />
+          <entry key="json" value="59" />
+          <entry key="txt" value="230" />
+          <entry key="vue" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="EJS" value="22" />
+          <entry key="JSON" value="59" />
+          <entry key="JavaScript" value="4717" />
+          <entry key="PLAIN_TEXT" value="230" />
+          <entry key="Vue.js" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/renderer/_buildPage/initRoute.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+              <folding>
+                <element signature="e#250#315#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/_buildPage/route.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/_buildPage/createViews.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-115">
+              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <folding>
+                <element signature="e#359#380#0" />
+                <element signature="e#397#544#0" />
+                <element signature="e#583#619#0" />
+                <element signature="e#665#709#0" />
+                <element signature="e#711#1099#0" />
+                <element signature="e#715#849#0" />
+                <element signature="e#853#976#0" />
+                <element signature="e#980#1097#0" />
+                <element signature="e#1217#1223#0" />
+                <element signature="e#1247#1257#0" />
+                <element signature="e#1280#1306#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/renderer/singleRoutes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forEach</find>
+      <find>rootDir</find>
+      <find>fetchE</find>
+      <find>saveDom</find>
+      <find>workDir</find>
+      <find>&quot;./logs/</find>
+      <find>./logs</find>
+      <find>fileName</find>
+      <find>writeFileS</find>
+      <find>console.log</find>
+      <find>electron</find>
+      <find>this._init</find>
+      <find>ipc</find>
+      <find>window.ipc</find>
+      <find>window.electron_utils.ipc</find>
+      <find>glob</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>logPath + &quot;</replace>
+      <replace>rootDir + logPath + &quot;</replace>
+      <replace>window.ipc.ipc</replace>
+      <replace>rootObj</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\git\projectManager\src\renderer</dir>
+      <dir>D:\git\projectManager</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/renderer/components/mainView/Header.vue" />
+        <option value="$PROJECT_DIR$/doc/1 项目说明.txt" />
+        <option value="$PROJECT_DIR$/doc/3 数据说明.txt" />
+        <option value="$PROJECT_DIR$/doc/2 项目范围.txt" />
+        <option value="$PROJECT_DIR$/src/main/utils/log.js" />
+        <option value="$PROJECT_DIR$/src/main/index.js" />
+        <option value="$PROJECT_DIR$/src/main/utils/setting.js" />
+        <option value="$PROJECT_DIR$/src/renderer/utils/ipc/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/mainView/Sidebar.vue" />
+        <option value="$PROJECT_DIR$/src/renderer/pages/test1/test/test.vue" />
+        <option value="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" />
+        <option value="$PROJECT_DIR$/src/renderer/main.js" />
+        <option value="$PROJECT_DIR$/src/index.ejs" />
+        <option value="$PROJECT_DIR$/src/main/utils/fetchEventDear.js" />
+        <option value="$PROJECT_DIR$/src/main/utils/base.js" />
+        <option value="$PROJECT_DIR$/src/renderer/utils/electron-utils/base.js" />
+        <option value="$PROJECT_DIR$/src/renderer/utils/electron-utils/ipc.js" />
+        <option value="$PROJECT_DIR$/src/renderer/utils/electron-utils/index.js" />
+        <option value="$PROJECT_DIR$/src/renderer/utils/electron-utils/dialog.js" />
+        <option value="$PROJECT_DIR$/src/renderer/_buildPage/route.json" />
+        <option value="$PROJECT_DIR$/src/renderer/_buildPage/test/test.js" />
+        <option value="$PROJECT_DIR$/src/renderer/_buildPage/createViews.js" />
+        <option value="$PROJECT_DIR$/src/renderer/singleRoutes.js" />
+        <option value="$PROJECT_DIR$/src/renderer/_buildPage/initRoute.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="renderer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\git\projectManager\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\git\projectManager\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\projectManager\src\renderer\utils\electron-utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.createViews.js">
+    <configuration name="createViews.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="createViews.js" working-dir="$PROJECT_DIR$/src/renderer/_buildPage">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/src/renderer/_buildPage/test">
+      <method v="2" />
+    </configuration>
+    <configuration name="运行" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.运行" />
+      <item itemvalue="Node.js.createViews.js" />
+      <item itemvalue="Node.js.test.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.createViews.js" />
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89a131d0-b49a-480e-af97-6c370c53d8ae" name="Default Changelist" comment="" />
+      <created>1539332515787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539332515787</updated>
+      <workItem from="1539332518961" duration="9144000" />
+      <workItem from="1539354687283" duration="2946000" />
+      <workItem from="1539400504057" duration="4357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16447000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.292437" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32605043" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/1 项目说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/3 数据说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/2 项目范围.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/electron/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.dev.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/__log__/fetchEventDearAll.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/__log__/process.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/utils/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/utils/setting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/mainView/Header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/__setting__/common.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/utils/electron-utils/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/utils/electron-utils/dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <element signature="e#68#1292#0" />
+            <element signature="e#91#151#0" />
+            <element signature="e#105#147#0" />
+            <element signature="e#194#1284#0" />
+            <element signature="e#220#1209#0" />
+            <element signature="e#252#1169#0" />
+            <element signature="e#274#483#0" />
+            <element signature="e#291#362#0" />
+            <element signature="e#379#473#0" />
+            <element signature="e#516#810#0" />
+            <element signature="e#555#624#0" />
+            <element signature="e#750#798#0" />
+            <element signature="e#853#1025#0" />
+            <element signature="e#898#1012#0" />
+            <element signature="e#1046#1161#0" />
+            <element signature="e#1092#1148#0" />
+            <element signature="e#1215#1280#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/utils/electron-utils/ipc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/utils/electron-utils/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="133" selection-start-line="16" selection-start-column="133" selection-end-line="16" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/mainView/Sidebar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/pages/test1/test/test.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="n#script#0;n#!!top" />
+            <element signature="n#style#1;n#!!top" />
+            <element signature="e#167#265#0" />
+            <element signature="e#332#361#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#scripts#0;n#!!top" />
+            <element signature="n#!!block;n#build#0;n#!!top" />
+            <element signature="n#!!block;n#directories#0;n#!!block;n#build#0;n#!!top" />
+            <element signature="e#1255#1289#0" />
+            <element signature="n#!!block;n#dmg#0;n#!!block;n#build#0;n#!!top" />
+            <element signature="e#1322#1537#0" />
+            <element signature="e#1332#1443#0" />
+            <element signature="e#1453#1529#0" />
+            <element signature="n#!!block;n#mac#0;n#!!block;n#build#0;n#!!top" />
+            <element signature="n#!!block;n#win#0;n#!!block;n#build#0;n#!!top" />
+            <element signature="n#!!block;n#linux#0;n#!!block;n#build#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/_buildPage/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="4" lean-forward="true" selection-end-line="39" />
+          <folding>
+            <element signature="e#391#456#0" />
+            <element signature="e#613#1139#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/utils/fetchEventDear.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="150" column="16" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="16" />
+          <folding>
+            <element signature="e#530#699#0" />
+            <element signature="e#726#2152#0" />
+            <element signature="e#783#870#0" />
+            <element signature="e#926#1015#0" />
+            <element signature="e#1067#1155#0" />
+            <element signature="e#1205#1282#0" />
+            <element signature="e#1334#1955#0" />
+            <element signature="e#1344#1835#0" />
+            <element signature="e#1372#1467#0" />
+            <element signature="e#1478#1577#0" />
+            <element signature="e#1588#1685#0" />
+            <element signature="e#1696#1781#0" />
+            <element signature="e#1792#1825#0" />
+            <element signature="e#1856#1906#0" />
+            <element signature="e#1912#1947#0" />
+            <element signature="e#2003#2050#0" />
+            <element signature="e#2098#2146#0" />
+            <element signature="e#2175#2477#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/_buildPage/route.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/pages/main/main/main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/singleRoutes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/_buildPage/createViews.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#359#380#0" />
+            <element signature="e#397#544#0" />
+            <element signature="e#583#619#0" />
+            <element signature="e#665#709#0" />
+            <element signature="e#711#1099#0" />
+            <element signature="e#715#849#0" />
+            <element signature="e#853#976#0" />
+            <element signature="e#980#1097#0" />
+            <element signature="e#1217#1223#0" />
+            <element signature="e#1247#1257#0" />
+            <element signature="e#1280#1306#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/_buildPage/initRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <element signature="e#250#315#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

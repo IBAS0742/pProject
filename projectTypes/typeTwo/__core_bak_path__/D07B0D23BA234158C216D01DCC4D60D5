@@ -1,0 +1,46 @@
+## 工程使用说明
+
+#### Vue 原型链扩展说明
+```javascript
+// src/renderer/utils/ele-common.js
+// 挂载了三个跳转方法
+Vue.prototype.redirectTo = (url)=>{}
+Vue.prototype.refreahPage = (url)=>{}
+Vue.prototype.redirectToHome = ()=>{}
+
+// src/renderer/utils/electron-utils
+// 除了 base.js 和 index.js 两个文件，其他是要挂载的内容
+// dialog 是对话框
+// ipc 是页面和 electron 的通信
+export default {
+    data: {
+        sets: {}
+    },
+    methods: {
+        getSetting() {
+            this.send(this.ipcAction.setting.get,'',sets => {
+                sets = sets.data;
+                this.sets = sets;
+                console.log('配置内容为',sets);
+            },'',this);
+        },
+        getFileName() {
+            this.dialog.getFile(fileName => {
+                console.log(fileName);
+            });
+        }
+    }
+}
+```
+
+#### 创建页面
+```javascript
+// src/renderer/_buildPage/createViews.js
+const name = 'main';    // 最好是唯一的
+const dir = '/main/';   // 相对路径
+const title = '主页面';    //页面标题
+
+// src/renderer/_buildPage/route.json
+// 这里的每一项的 key 对应上面的 name
+// 是生成路由文件时的一个配置
+```

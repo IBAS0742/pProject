@@ -1,0 +1,8 @@
+1. 整个电脑的项目管理
+2. 对接 https://github.com/IBAS0742/pProject 的项目管理
+3. 测试项目管理（负责事后将无用的代码进行删除）
+4. 项目搜索
+5. GitHub 工具
+6. GitHub 同步和维护（主要是对应 https://github.com/IBAS0742/pProject 项目）
+7. 简单命令行工具管理
+8. 项目创建和删除
