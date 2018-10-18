@@ -1,0 +1,15 @@
+{
+  "dir": "projectTypes",
+  "projects": {
+    "typeOne": {
+      "name": "typeOne",
+      "key": "electron",
+      "desc": "electron + html\n1.普通国际化（谷歌翻译）\n2.配置载入载出\n3.允许代码注入\n4.软件打包"
+    },
+    "typeTwo": {
+      "name": "typeTwo",
+      "key": "electron",
+      "desc": "electron + vue\n1.前后通信"
+    }
+  }
+}

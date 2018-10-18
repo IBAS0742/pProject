@@ -1,0 +1,13 @@
+{
+  "dir": "projects",
+  "projects": {
+    "typeOne": {
+      "geeis": {
+        "name": "geeis",
+        "key": "天空(普通密码)",
+        "desc": "gee 项目",
+        "belongTo": "typeOne"
+      }
+    }
+  }
+}
