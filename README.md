@@ -58,4 +58,5 @@ key = '加密密钥';
 | 项目 | 密钥 |
 | -------- | -------- |
 | project/typeOne/geeis/  | 天空 |
+| project/typeTwo/local_manager/  | 保护 |
 
